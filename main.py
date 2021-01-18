@@ -1,3 +1,24 @@
+print('\033[93m'+"""
+     _   _            _                  _              _       _ _ 
+    | |_| |_  __ _ __| |___ _ __    __ _| |  _ __  __ _| |_  __| (_)
+    | / / ' \/ _` / _` / -_) '  \  / _` | | | '  \/ _` | ' \/ _` | |
+    |_\_\_||_\__,_\__,_\___|_|_|_| \__,_|_| |_|_|_\__,_|_||_\__,_|_|
+""")
+print('\033[91m'+"""
+                         _         __ _           _           
+     _ __ ___  _   _ ___(_) ___   / _(_)_ __   __| | ___ _ __ 
+    | '_ ` _ \| | | / __| |/ __| | |_| | '_ \ / _` |/ _ \ '__|
+    | | | | | | |_| \__ \ | (__  |  _| | | | | (_| |  __/ |   
+    |_| |_| |_|\__,_|___/_|\___| |_| |_|_| |_|\__,_|\___|_|   
+                                                          
+""")
+print('\033[93m'+"""
+    
+    \033[93myoutube =\033[92m btly.ir/google
+    \033[93mtelegram =\033[92m @khodekhadem
+    \033[93minstagram =\033[92m khodekhadem
+    """
+    )  
 try: 
     from googlesearch import search 
     import requests
@@ -43,7 +64,7 @@ def download_link(link):
 
 	    total_length = int(r.headers.get('content-length'))
 
-	    for ch in progress.bar(r.iter_content(chunk_size = 2391975), expected_size=(total_length/1024) + 1):
+	    for ch in progress.bar(r.iter_content(chunk_size = 8192), expected_size=(total_length/1024) + 1):
 
 	        if ch:
 
@@ -96,7 +117,7 @@ for music_i in range (len(site_list)):
 	if len(music_list) > 0 :
 
 		for i in range (len(music_list)) :
-		    print(i,end="")
+		    print(i+1,end="")
 		    print(" =>  ",end="")
 		    print(music_list[i][ music_list[i].rfind("/")+1   : ].replace("%20"," "))
 		    if i == 4 :
@@ -108,7 +129,7 @@ for music_i in range (len(site_list)):
 		print("which one do you want ?(enter number) \n"+bcolors.normal)
 		while 1 == 1 :    
 		    try:
-		        music_num = int(input())
+		        music_num = int(input())-1
 		        break
 		    except :
 		        print("\n ***faghat adad vared kon !!! \n ***just enter number !!\n")
@@ -132,4 +153,3 @@ for music_i in range (len(site_list)):
 
 
 
-    
