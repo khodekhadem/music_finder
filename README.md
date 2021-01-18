@@ -15,6 +15,17 @@
 
 # music_finder
 find and download a music whit a part of its text
+
+# Requirements
+
+first you have to install "python", "python3" and "git" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
+
+    sudo apt-get install python python3 git
+or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US) it would be like this
+    
+    pkg install  python python3 git -y
+
+
 # installation
 first, download it
 
