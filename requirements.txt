@@ -1,4 +1,4 @@
-googlesearch-python
+google
 requests
 tqdm
 clint
