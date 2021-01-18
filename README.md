@@ -53,11 +53,11 @@ use this command
 # my social medias
 
 
-my youtube = [btly.ir/google](b2n.ir/khodekhadem)  &nbsp;  [![click](b2n.ir/khodekhadem)](b2n.ir/khodekhadem)
+my youtube = [btly.ir/google](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-03FAF1)](b2n.ir/khodekhadem)
 
-my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://t.me/khodekhadem)](https://t.me/khodekhadem)
+my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-03FAF1)](https://t.me/khodekhadem)
 
-my instagram = [khodekhadem](www.instagram.com/khodekhadem)  &nbsp;  [![click](www.instagram.com/khodekhadem)](www.instagram.com/khodekhadem)
+my instagram = [khodekhadem](www.instagram.com/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-03FAF1)](www.instagram.com/khodekhadem)
 
 my email = khadem13khadem@gmail.com
 
