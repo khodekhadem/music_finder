@@ -29,25 +29,25 @@ or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US
 # installation
 first, download it
 
-```git clone https://github.com/khodekhadem/music_finder/```
+    git clone https://github.com/khodekhadem/music_finder/
 
 then, go to the directory
 
-```cd music_finder```
+    cd music_finder
 
 now, install require ments
 
-```pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 or may be you have to use this
 
-```pip3 install requirements.txt```
+    pip3 install requirements.txt
 
 # run
 
 use this command
 
-```python3 main.py```
+    python3 main.py
 
 
 # my social medias
