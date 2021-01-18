@@ -16,16 +16,26 @@
 # music_finder
 find and download a music whit a part of its text
 # installation
-first download it
+first, download it
+
 ```git clone https://github.com/khodekhadem/music_finder/```
-then go to the directory
+
+then, go to the directory
+
 ```cd music_finder```
-now install require ments
+
+now, install require ments
+
 ```pip install -r requirements.txt```
+
 or may be you have to use this
+
 ```pip3 install requirements.txt```
+
 # run
+
 use this command
+
 ```python3 main.py```
 
 
