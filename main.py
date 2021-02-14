@@ -70,7 +70,7 @@ def download_link(link):
 
 	    total_length = int(r.headers.get('content-length'))
 
-	    for ch in progress.bar(r.iter_content(chunk_size = 8192), expected_size=(total_length/1024) + 1):
+	    for ch in progress.bar(r.iter_content(chunk_size = 1024), expected_size=(total_length/1024) + 1):
 
 	        if ch:
 
