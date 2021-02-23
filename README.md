@@ -53,7 +53,7 @@ use this command
 # my social medias
 
 
-my youtube = [btly.ir/google](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://b2n.ir/khodekhadem)
+my youtube = [https://b2n.ir/khodekhadem](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://b2n.ir/khodekhadem)
 
 my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://t.me/khodekhadem)
 
