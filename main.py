@@ -20,7 +20,7 @@ print('\033[91m'+"""
 """)
 print('\033[93m'+"""
     
-    \033[93myoutube =\033[92m btly.ir/google
+    \033[93myoutube =\033[92m b2n.ir/khodekhadem 
     \033[93mtelegram =\033[92m @khodekhadem
     \033[93minstagram =\033[92m khodekhadem
     """
